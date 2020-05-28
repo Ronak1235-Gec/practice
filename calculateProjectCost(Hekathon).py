@@ -1,4 +1,4 @@
-
+#this is  only for practice purpose.
 class Project:
     def __init__(self,projectId,projectName,manHours,technologyList):
         self.projectId=projectId
