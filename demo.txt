@@ -1,5 +1,0 @@
-This is way to work with github.
-This is one type of feature which is pull request.
-
-
-This is another line added.
